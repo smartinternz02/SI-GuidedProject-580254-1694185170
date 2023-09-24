@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PizzaApplication</string>
+    <string name="popular">Popular</string>
+    <string name="see_all">See all</string>
+    <string name="pizza_name">Farmhouse</string>
+    <string name="value">Rs. 479</string>
+    <string name="search">Search</string>
+    <string name="home_screen_text">What are you craving for?</string>
+    <string name="veg_pizza">Veg Pizza</string>
+    <string name="rating">4.5</string>
+    <string name="pizza_description">Delightful combination of onions, tomato and grilled mushroom</string>
+    <string name="add_to_bag">Add to bag</string>
+</resources>
